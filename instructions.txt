@@ -1,0 +1,73 @@
+Warehouse 1.0.0
+A PineLoader mod for Pionero Capital.
+A stock manager with Stock Management II keeps 6 storages stocked.
+With level III, that number is 8. Level I stays at the game's 4.
+
+Author
+  EuroCent82
+  https://github.com/EuroCent82
+
+Site
+  https://pineloader.dev
+
+Releases
+  PineLoader 1.0.3
+  https://github.com/EuroCent82/PineLoader/releases/latest
+
+  Warehouse 1.0.0
+
+Install
+
+Install PineLoader first. Then install Warehouse.
+
+1. PineLoader
+
+   Download PineLoader 1.0.3:
+   https://github.com/EuroCent82/PineLoader/releases/latest
+
+   The file is PineLoader-1.0.3-win-x64.zip.
+   Unpack it into a folder named PineLoader next to the game.
+   For Pionero Capital the program then sits here:
+
+   Pionero Capital\PineLoader\PineLoader.exe
+
+   Close the game. Start PineLoader.exe once.
+   The loader saves the official game file as
+   PioneroCapital-Win64-Game.exe
+   and points PioneroCapital-Win64-Shipping.exe at itself.
+   Leave the Steam launch options empty.
+   Play in Steam starts PineLoader first.
+
+   The same guide is on the site, under Documentation.
+
+2. Warehouse
+
+   Download Warehouse 1.0.0.
+   The file is Warehouse-1.0.0.zip.
+   Copy the Warehouse folder from that zip into:
+
+   Pionero Capital\PineLoader\Mods\
+
+   You then have these two files:
+
+   PineLoader\Mods\Warehouse\Warehouse.dll
+   PineLoader\Mods\Warehouse\warehouse-agent.jar
+
+   Start the game through PineLoader, or press Play in Steam.
+   The loader writes Config\Warehouse.ini when that file is missing.
+
+Shelves
+
+Stock Management I keeps the game's 4 storages.
+Level II keeps 6. Level III keeps 8.
+The sentence in the stock window and the selection limit use that number.
+The extra storages are not assigned on their own.
+The player picks them.
+Storages that are already selected stay until the player adds more.
+
+Enabled=false puts the limit back to the game's own number.
+
+What stays
+
+The vehicle trunk keeps its own limit.
+Pay, driving, crafting, recruiting, marketing, and the speed of the work stay as the game set them.
