@@ -1,0 +1,17 @@
+Warehouse 1.0.1
+2026-11-17
+
+Level II and level III read Middle and High from Config\Warehouse.ini.
+A missing or invalid number falls back to 6 and 8, and the log says so.
+If the new limit is below the number of shelves already assigned, the log says those shelves are not deleted.
+The hook names live in one place, HookSite.
+The game class used by the test is part of the build. If it is missing, the build stops.
+
+Level I, a missing level, and any other level stay at the game's own number.
+Needs PineLoader 1.0.4.
+The zip is Warehouse-1.0.1.zip.
+Copy the Warehouse folder into PineLoader\Mods\.
+
+1.0.0
+
+Level II keeps 6 storages. Level III keeps 8. Level I stays at 4.

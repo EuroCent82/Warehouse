@@ -1,4 +1,4 @@
-Warehouse 1.0.0
+Warehouse 1.0.1
 A PineLoader mod for Pionero Capital.
 A stock manager with Stock Management II keeps 6 storages stocked.
 With level III, that number is 8. Level I stays at the game's 4.
@@ -11,10 +11,10 @@ Site
   https://pineloader.dev
 
 Releases
-  PineLoader 1.0.3
+  PineLoader 1.0.4
   https://github.com/EuroCent82/PineLoader/releases/latest
 
-  Warehouse 1.0.0
+  Warehouse 1.0.1
 
 Install
 
@@ -22,10 +22,10 @@ Install PineLoader first. Then install Warehouse.
 
 1. PineLoader
 
-   Download PineLoader 1.0.3:
+   Download PineLoader 1.0.4:
    https://github.com/EuroCent82/PineLoader/releases/latest
 
-   The file is PineLoader-1.0.3-win-x64.zip.
+   The file is PineLoader-1.0.4-win-x64.zip.
    Unpack it into a folder named PineLoader next to the game.
    For Pionero Capital the program then sits here:
 
@@ -42,8 +42,8 @@ Install PineLoader first. Then install Warehouse.
 
 2. Warehouse
 
-   Download Warehouse 1.0.0.
-   The file is Warehouse-1.0.0.zip.
+   Download Warehouse 1.0.1.
+   The file is Warehouse-1.0.1.zip.
    Copy the Warehouse folder from that zip into:
 
    Pionero Capital\PineLoader\Mods\
