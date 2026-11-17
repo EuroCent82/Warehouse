@@ -1,17 +1,19 @@
-Warehouse 1.0.1
-2026-11-17
-
-Level II and level III read Middle and High from Config\Warehouse.ini.
+[b]Warehouse 1.0.1[/b]
+[b]Stufe II[/b] und [b]Stufe III[/b] lesen [code]Middle[/code] und [code]High[/code] aus [code]Config\Warehouse.ini[/code].
+Fehlt die Zahl oder ist sie ungültig, gelten 6 und 8, und das Log sagt das.
+Liegt die neue Grenze unter der Zahl schon vergebener Regale, sagt das Log, dass diese Regale nicht gelöscht werden.
+Die Hakennamen stehen an einer Stelle, [code]HookSite[/code].
+Die Klassendatei des Spiels für den Test gehört zum Bau. Fehlt sie, stoppt der Bau.
+[b]Stufe I[/b], eine fehlende Stufe und jede andere Stufe bleiben bei der Zahl des Spiels.
+Braucht [b]PineLoader 1.0.4[/b].
+[b]Level II[/b] and [b]level III[/b] read [code]Middle[/code] and [code]High[/code] from [code]Config\Warehouse.ini[/code].
 A missing or invalid number falls back to 6 and 8, and the log says so.
-If the new limit is below the number of shelves already assigned, the log says those shelves are not deleted.
-The hook names live in one place, HookSite.
+If the new limit is below the shelves already assigned, the log says those shelves are not deleted.
+The hook names live in one place, [code]HookSite[/code].
 The game class used by the test is part of the build. If it is missing, the build stops.
+[b]Level I[/b], a missing level, and any other level stay at the game's own number.
+Needs [b]PineLoader 1.0.4[/b].
 
-Level I, a missing level, and any other level stay at the game's own number.
-Needs PineLoader 1.0.4.
-The zip is Warehouse-1.0.1.zip.
-Copy the Warehouse folder into PineLoader\Mods\.
-
-1.0.0
-
-Level II keeps 6 storages. Level III keeps 8. Level I stays at 4.
+[b]1.0.0[/b]
+[b]Stufe II[/b] hält 6 Lager. [b]Stufe III[/b] hält 8. [b]Stufe I[/b] bleibt bei 4.
+[b]Level II[/b] keeps 6 storages. [b]Level III[/b] keeps 8. [b]Level I[/b] stays at 4.
