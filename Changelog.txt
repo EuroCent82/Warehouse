@@ -1,3 +1,9 @@
+[b]Warehouse 1.0.2[/b]
+[b]Lageristen[/b] mit Lagerverwaltung II können bis zu 6 Lager und mit Stufe III bis zu 8 Lager auswählen. Die Spielbindungen wurden an die aktuelle Spielversion angepasst. Stufe I bleibt bei der Spielgrenze von 4.
+[b]Stock managers[/b] with Stock Management II can select up to 6 storages, and level III up to 8. Game bindings now match the current game version. Level I stays at the game's limit of 4.
+Braucht [b]PineLoader 1.1.0-alpha[/b].
+Needs [b]PineLoader 1.1.0-alpha[/b].
+
 [b]Warehouse 1.0.1[/b]
 [b]Stufe II[/b] und [b]Stufe III[/b] lesen [code]Middle[/code] und [code]High[/code] aus [code]Config\Warehouse.ini[/code].
 Fehlt die Zahl oder ist sie ungültig, gelten 6 und 8, und das Log sagt das.
@@ -17,3 +23,5 @@ Needs [b]PineLoader 1.0.4[/b].
 [b]1.0.0[/b]
 [b]Stufe II[/b] hält 6 Lager. [b]Stufe III[/b] hält 8. [b]Stufe I[/b] bleibt bei 4.
 [b]Level II[/b] keeps 6 storages. [b]Level III[/b] keeps 8. [b]Level I[/b] stays at 4.
+
+
