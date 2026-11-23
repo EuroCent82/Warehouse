@@ -11,8 +11,8 @@ Site
   https://pineloader.dev
 
 Releases
-  PineLoader 1.1.0-alpha
-  https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha
+  PineLoader 1.0.4
+  https://github.com/EuroCent82/PineLoader/releases/latest
 
   Warehouse 1.0.2
 
@@ -22,10 +22,10 @@ Install PineLoader first. Then install Warehouse.
 
 1. PineLoader
 
-   Download PineLoader 1.1.0-alpha:
-   https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha
+   Download PineLoader 1.0.4:
+   https://github.com/EuroCent82/PineLoader/releases/latest
 
-   The file is PineLoader-1.1.0-alpha-win-x64.zip.
+   The file is PineLoader-1.0.4-win-x64.zip.
    Unpack it into a folder named PineLoader next to the game.
    For Pionero Capital the program then sits here:
 
@@ -42,8 +42,7 @@ Install PineLoader first. Then install Warehouse.
 
 2. Warehouse
 
-   Download Warehouse 1.0.2:
-   https://github.com/EuroCent82/Warehouse/releases/tag/v1.0.2
+   Download Warehouse 1.0.2.
    The file is Warehouse-1.0.2.zip.
    Copy the Warehouse folder from that zip into:
 
@@ -72,6 +71,3 @@ What stays
 
 The vehicle trunk keeps its own limit.
 Pay, driving, crafting, recruiting, marketing, and the speed of the work stay as the game set them.
-
-
-
